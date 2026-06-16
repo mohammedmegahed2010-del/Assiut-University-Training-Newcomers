@@ -12,8 +12,6 @@ My solutions for the famous Assiut University Training Newcomers sheets using C+
 | **Sheet #4** | Strings | 🟡 In Progress |
 | **Sheet #5** | Functions | 🟡 Not Started |
 
-*Note: You can update the status icons (🟢 Completed, 🟡 In Progress, ⚪ Not Started) based on your actual progress.*
-
 ## 🛠️ Tech Stack & Tools
 ![C++](https://shields.io)
 ![Codeforces](https://shields.io)
