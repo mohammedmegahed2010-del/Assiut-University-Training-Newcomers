@@ -17,8 +17,8 @@ My solutions for the famous Assiut University Training Newcomers sheets using C+
 | **Sheet #5** | Functions | 🟡 Not Started |
 
 ## 🛠️ Tech Stack & Tools
-![C++](<img src="images/C++.png">)
-![Codeforces](<img src="images/Codeforces.png">)
+![C++](images/C++.png)
+![Codeforces](images/Codeforces.png)
 
 ## 📂 Repository Structure
 - Each folder contains my clean and optimized C++ solutions for the sheet problems.
