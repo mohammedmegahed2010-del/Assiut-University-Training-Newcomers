@@ -14,7 +14,7 @@ My solutions for the famous Assiut University Training Newcomers sheets using C+
 | **Sheet #2** | Loops | 🟢 Completed |
 | **Sheet #3** | Arrays | 🟢 Completed |
 | **Sheet #4** | Strings | 🟡 In Progress |
-| **Sheet #5** | Functions | 🟡 Not Started |
+| **Sheet #5** | Functions | 🟡 In Progress |
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
