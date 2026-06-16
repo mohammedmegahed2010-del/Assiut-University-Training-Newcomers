@@ -1,7 +1,7 @@
 # 🏆 Assiut University Training Newcomers (C++)
 
 <p align="center">
-  <img src="" width="100%" alt="ICPC Assiut Newcomers Logo">
+  <img src="images/ICPC.jpg" width="400" alt="ICPC Assiut Logo">
 </p>
 
 My solutions for the famous Assiut University Training Newcomers sheets using C++. This repository serves as a record of my problem-solving journey and algorithmic thinking.
@@ -17,8 +17,8 @@ My solutions for the famous Assiut University Training Newcomers sheets using C+
 | **Sheet #5** | Functions | 🟡 Not Started |
 
 ## 🛠️ Tech Stack & Tools
-![C++]([https://shields.io](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white))
-![Codeforces]([https://shields.io](https://img.shields.io/badge/Codeforces-1305-cyan?logo=codeforces))
+![C++](<img src="images/C++">)
+![Codeforces](<img src="images/Codeforces">)
 
 ## 📂 Repository Structure
 - Each folder contains my clean and optimized C++ solutions for the sheet problems.
