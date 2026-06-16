@@ -1,7 +1,7 @@
 # 🏆 Assiut University Training Newcomers (C++)
 
 <p align="center">
-  <img src="images/ICPC.jpg" width="400" alt="ICPC Assiut Logo">
+  <img src="images/ICPC.jpg" alt="ICPC Assiut Logo">
 </p>
 
 My solutions for the famous Assiut University Training Newcomers sheets using C++. This repository serves as a record of my problem-solving journey and algorithmic thinking.
