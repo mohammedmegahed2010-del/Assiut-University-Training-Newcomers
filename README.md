@@ -18,8 +18,8 @@ My solutions for the famous Assiut University Training Newcomers sheets using C+
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="images/C++.png" height="45" alt="C++" style="margin-right: 25px;">
-  <img src="images/Codeforces.png" height="45" alt="Codeforces">
+  <img src="images/C++.png" height="45" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Codeforces.png" height="55" alt="Codeforces">
 </p>
 
 ## 📂 Repository Structure
