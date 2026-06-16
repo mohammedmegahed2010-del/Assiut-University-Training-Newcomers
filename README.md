@@ -1,2 +1,23 @@
-# Assiut-University-Training-Newcomers
-solutions for the Assiut University Training Newcomers sheets using C++
+# 🏆 Assiut University Training Newcomers (C++)
+
+My solutions for the famous Assiut University Training Newcomers sheets using C++. This repository serves as a record of my problem-solving journey and algorithmic thinking.
+
+## 📊 Sheet Progress
+
+| Sheet | Topic | Status |
+| :--- | :--- | :---: |
+| **Sheet #1** | Data type - Conditions | 🟢 Completed |
+| **Sheet #2** | Loops | 🟢 Completed |
+| **Sheet #3** | Arrays | 🟢 Completed |
+| **Sheet #4** | Strings | 🟡 In Progress |
+| **Sheet #5** | Functions | 🟡 Not Started |
+
+*Note: You can update the status icons (🟢 Completed, 🟡 In Progress, ⚪ Not Started) based on your actual progress.*
+
+## 🛠️ Tech Stack & Tools
+![C++](https://shields.io)
+![Codeforces](https://shields.io)
+
+## 📂 Repository Structure
+- Each folder contains my clean and optimized C++ solutions for the sheet problems.
+- Solutions are named after the problem code (e.g., `A_Say_Hello.cpp`).
